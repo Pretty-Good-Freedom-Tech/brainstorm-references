@@ -1,0 +1,74 @@
+Brainstorm: References
+=====
+
+This document is a list of places to look for as many writings, repos, videos, etc regarding Brainstorm, the Grapevine, GrapeRank, and the Concept Graph. These will be used to assist vibe coding.
+
+Substack for the Pretty Good Project, [here](https://substack.com/@prettygoodproject), including:
+
+- short pitch for the Concept Graph app [here](https://prettygoodproject.substack.com/p/short-pitch-for-the-concept-graph)
+- The Pretty Good way to calculate a user's influence within your web of trust, [here](https://prettygoodproject.substack.com/p/the-pretty-good-way-to-calculate)
+- **Tapestry Implementation Proposals, [here](https://prettygoodproject.substack.com/p/tapestry-implementation-proposals)**
+- Context, [here](https://prettygoodproject.substack.com/p/context)
+- The Pretty Good Tech Stack, [here](https://prettygoodproject.substack.com/p/the-pretty-good-tech-stack)
+- For Web of Trust to Succeed, it Must First be Paired with the Universal Language of Mathematics, [here](https://prettygoodproject.substack.com/p/for-web-of-trust-to-succeed-it-must)
+- the Tapestry Model, [here](https://prettygoodproject.substack.com/p/the-tapestry-model)
+- Influence and Context in the Grapevine, [here](https://prettygoodproject.substack.com/p/influence-and-context-in-the-grapevine)
+
+nostr long form content by straycat here, including:
+
+- Decentralized Curation of Simple Lists, [here](https://primal.net/straycat/decentralized-curation-of-simple-lists)
+
+Implementations (link to repos)
+
+nostr long form content by Pretty Good:
+
+- The Pretty Good Way to Calculate a User’s Influence Within your Web of Trust, [here](https://primal.net/e/naddr1qqxnzdes8q6rwv3hxs6rjvpeqgs98k45ww24g26dl8yatvefx3qrkaglp2yzu6dm3hv2vcxl822lqtgrqsqqqa28kn8wur)
+- nostr, lists, and web of trust, [here](https://primal.net/e/naddr1qqxnzd3e8yurjd35xuurwvfnqgs98k45ww24g26dl8yatvefx3qrkaglp2yzu6dm3hv2vcxl822lqtgrqsqqqa28tg539d)
+
+video: the Decentralized Web and the Cerebral Cortex, a 30 minute online presentation March 2022, [here](https://eegatlas-online.com/index.php/en/dweb-overview-video) 
+
+wds presentations at Bitcoin Park:
+
+- [Nostr, Lists and Web of Trust](https://open.spotify.com/episode/1SYE5ooZiHaswOsXR23STp), 15-minute presentation Nov 2023 at Nostrville in Bitcoin Park, Nashville, TN
+- at the first Nostr Nights, Feb 2026 (link?)
+
+the pretty-good-freedom-tech GitHub repository, [here](https://github.com/Pretty-Good-Freedom-Tech). In particular:
+
+- grapevine-modular-structure, [here](https://github.com/Pretty-Good-Freedom-Tech/grapevine-modular-structure)
+
+the wds4 GitHub repository, [here](https://github.com/Pretty-Good-Freedom-Tech/wds4). In particular:
+
+- the DCoSL protocol, an overview of the tapestry protocol, [here](https://github.com/wds4/dcosl)
+- tapestry-protocol, an unfinished rewrite of DCoSL, [here](https://github.com/wds4/tapestry-protocol)
+- pretty Good Apps, a nostr desktop application that implements Grapevine and the Concept Graph, [here](https://github.com/wds4/pretty-good)
+- github: Overview of Curated Lists on Nostr, [here](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/overview.md)
+- tribal tapestry theory, [here](https://github.com/wds4/tribal-tapestry)
+
+Custom NIPs on NostrHub.io:
+
+- Decentralized Lists, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qqnv3jkxetww3exzmrf0fjkgttvd9ehguc0w45dy)
+- Properties for Decentralized Lists, here
+- Trusted Lists, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qqdw3e82um5v4jz6mrfwd68x8d9a7l)
+- Graphical Organization of Decentralized List Items, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qpjvaexzurgd93kzmpddaexwctwd9axzarfdahz6mmx94jx2cm9de68yctvd9ax2epdd35hxapdd96x2mtnmxzraz)
+- Curated Contextual Ratings, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qq6vd6hyct5v4jz6cm0de6x27r5w4skcttjv96xjmn8wv6svntk)
+- Curated Dual Field Contexts, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qqmvd6hyct5v4jz6er4v9kz6enfv4kxgttrdah8getcw3es0n2rfw)
+- Ring Signatures, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qq0wf5kueedwd5kwmnpw36hyetnuvhf8w)
+
+Draft Custom NIPS on GitHub (not ready for NostrHub):
+
+- Decentralized Concepts, [here](https://github.com/Pretty-Good-Freedom-Tech/brainstorm.world/blob/main/docs/draft-nips/decentralized-concepts.md)
+- Decentralized Knowledge Graphs, [here](https://github.com/Pretty-Good-Freedom-Tech/brainstorm.world/blob/main/docs/draft-nips/decentralized-knowledge-graphs.md)
+- Decentralized List Curation, [here](https://github.com/Pretty-Good-Freedom-Tech/brainstorm.world/blob/main/docs/draft-nips/decentralized-list-curation.md)
+- Decentralized Structured Lists, [here](https://github.com/Pretty-Good-Freedom-Tech/brainstorm.world/blob/main/docs/draft-nips/decentralized-structured-lists.md)
+- Properties for DLists, [here](https://github.com/Pretty-Good-Freedom-Tech/brainstorm.world/blob/main/docs/draft-nips/properties-for-dlists.md)
+- Trusted Interpretations, [here](https://github.com/Pretty-Good-Freedom-Tech/brainstorm.world/blob/main/docs/draft-nips/trusted-interpretations.md)
+
+Keynote presentations:
+
+several keynote presentations with wireframes for Grapevine and Concept Graph apps
+
+a much longer version of the slide deck for my 30 min video on 
+
+others?
+
+Somewhere I have draft writings on tapestry and GOFAI
