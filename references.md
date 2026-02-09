@@ -40,12 +40,12 @@ This document is a list of places to look for as many writings, repos, videos, e
 
 ## GitHub repos
 
-### pretty-good-freedom-tech, [here](https://github.com/Pretty-Good-Freedom-Tech)
+### GitHub: pretty-good-freedom-tech, [here](https://github.com/Pretty-Good-Freedom-Tech)
 
 In particular:
 - grapevine-modular-structure, [here](https://github.com/Pretty-Good-Freedom-Tech/grapevine-modular-structure)
 
-### wds4, [here](https://github.com/Pretty-Good-Freedom-Tech/wds4)
+### GitHub: wds4, [here](https://github.com/Pretty-Good-Freedom-Tech/wds4)
 
 In particular:
 - the DCoSL protocol, an overview of the tapestry protocol, [here](https://github.com/wds4/dcosl)
@@ -62,7 +62,7 @@ In particular:
 
 ## Presentations at Bitcoin Park:
 - [Nostr, Lists and Web of Trust](https://open.spotify.com/episode/1SYE5ooZiHaswOsXR23STp), 15-minute presentation Nov 2023 at Nostrville in Bitcoin Park, Nashville, TN
-- at the first Nostr Nights, Feb 2026 (link?)
+- [Weaving the Fabric of Nostr](https://bitcoinpark.com/nostr-nights/david-strayhorn-weaving-the-fabric-of-nostr.html) at the first Nostr Nights, Feb 2026, Bitcoin Park, Nashville, TN
 
 ## videos
 
