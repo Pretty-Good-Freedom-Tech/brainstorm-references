@@ -63,6 +63,7 @@ In particular:
 ## Presentations at Bitcoin Park:
 - [Nostr, Lists and Web of Trust](https://open.spotify.com/episode/1SYE5ooZiHaswOsXR23STp), 15-minute presentation Nov 2023 at Nostrville in Bitcoin Park, Nashville, TN
 - [Weaving the Fabric of Nostr](https://bitcoinpark.com/nostr-nights/david-strayhorn-weaving-the-fabric-of-nostr.html) at the first Nostr Nights, Feb 2026, Bitcoin Park, Nashville, TN
+- shadrach's inviation to present
 
 ## videos
 
