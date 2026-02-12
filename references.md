@@ -72,7 +72,7 @@ In particular:
 ## Custom NIPs on NostrHub.io:
 
 - Decentralized Lists, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qqnv3jkxetww3exzmrf0fjkgttvd9ehguc0w45dy)
-- Properties for Decentralized Lists, here
+- Properties for Decentralized Lists, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpzwpex7ur9wf6xjetn94nx7u3dv3jkxetww3exzmrf0fjkgttvd9ehguc8nfpll)
 - Trusted Lists, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qqdw3e82um5v4jz6mrfwd68x8d9a7l)
 - Graphical Organization of Decentralized List Items, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qpjvaexzurgd93kzmpddaexwctwd9axzarfdahz6mmx94jx2cm9de68yctvd9ax2epdd35hxapdd96x2mtnmxzraz)
 - Curated Contextual Ratings, [here](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qq6vd6hyct5v4jz6cm0de6x27r5w4skcttjv96xjmn8wv6svntk)
