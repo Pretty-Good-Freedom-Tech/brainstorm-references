@@ -100,7 +100,7 @@ In particular:
 - Say Wot, with Avi Burra, Vitor Pamplona, and Derek Ross, [S1 E1](https://podcasts.apple.com/py/podcast/say-wot-ep-1-user-driven-trust-scores-with-derek-ross/id1691033484?i=1000744974514)
 - [Weaving the Fabric of Nostr](https://bitcoinpark.com/nostr-nights/david-strayhorn-weaving-the-fabric-of-nostr.html) -- talk at Nostr Nights, 2 Feb 2026
 
-## Most relevant repos for apps:
+## Code
 
 Grapevine:
 - [the prototype for Brainstorm: Grapevine](https://github.com/Pretty-Good-Freedom-Tech/brainstorm), implemented at [straycat.brainstorm.social](https://straycat.brainstorm.social), still live as of Feb 2026 but soon to be superceded by the NosFabrica rebuild
@@ -112,7 +112,8 @@ Grapevine + Knowledge Graph
 - [Pretty Good](https://github.com/wds4/pretty-good) on nostr; as of Feb 2026 this is 2 years old
 - [Plex](https://github.com/wds4/plex) on IPFS, before I discovered nostr; in many ways this is the most complete implementation of the Concept Graph anywhere, more so than anything I've built on nostr (note: I have multiple versions of Plex in wds4, e.g. plex-builder14,  and I'm not 100 % sure which one is the most up to date)
 
-Important high level concepts
+## Important high level concepts
+
 - loose consensus
 - class threads
 - why GOFAI failed and how tapestry will fix it
