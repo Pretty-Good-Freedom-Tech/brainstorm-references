@@ -56,9 +56,9 @@ In particular:
 
 ## Podcast appearances:
 - Thank God For Nostr, with hodlbod
-- Trust Revolution, with Shawn Yeager
+- Trust Revolution, with Shawn Yeager, [S01 E4](https://trustrevolution.co/episodes/s01e04-david-strayhorn/)
 - PlebChain Radio, with Avi Burra
-- Say Wot, with Avi Burra, Vitor Pamplona, and Derek Ross
+- Say Wot, with Avi Burra, Vitor Pamplona, and Derek Ross, [S1 E1](https://podcasts.apple.com/py/podcast/say-wot-ep-1-user-driven-trust-scores-with-derek-ross/id1691033484?i=1000744974514(
 
 ## Presentations at Bitcoin Park:
 - [Nostr, Lists and Web of Trust](https://open.spotify.com/episode/1SYE5ooZiHaswOsXR23STp), 15-minute presentation Nov 2023 at Nostrville in Bitcoin Park, Nashville, TN
@@ -92,3 +92,9 @@ In particular:
 - several keynote presentations with wireframes for Grapevine and Concept Graph apps
 - a much longer version of the slide deck for my 30 min video on 
 
+# Getting started
+
+Best reading /watching for the big picture (not necessarily in order):
+- substack articles
+- Custom NIPs, especially Decentralized Lists
+- Say WoT, S1 E1
