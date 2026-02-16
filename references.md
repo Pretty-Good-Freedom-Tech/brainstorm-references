@@ -94,13 +94,19 @@ In particular:
 
 # Getting started
 
-Best reading /watching for the big picture (not necessarily in order):
+## Best reading /watching for the big picture (not necessarily in order):
 - substack articles
 - Custom NIPs, especially Decentralized Lists
 - Say WoT, S1 E1
 
-Most relevant repos:
+## Most relevant repos:
+Grapevine:
 - [the prototype for Brainstorm: Grapevine](https://github.com/Pretty-Good-Freedom-Tech/brainstorm), implemented at [straycat.brainstorm.social](https://straycat.brainstorm.social)
+Concept Graph (aka Knowledge Graph):
+- [brainstorm-knowledge-graph](https://github.com/wds4/brainstorm-knowledge-graph), implemented [here](https://brainstorm-knowledge-graph.vercel.app/#/dashboard) (actie development as of Feb 2026)
+Grapevine + Knowledge Graph
+- [Pretty Good](https://github.com/wds4/pretty-good) on nostr; as of Feb 2026 this is 2 years old
+- [Plex](https://github.com/wds4/plex) on IPFS, before I discovered nostr; in many ways this is the most complete implementation of the Concept Graph anywhere, more so than anything I've built on nostr
 
 Important high level concepts
 - loose consensus
