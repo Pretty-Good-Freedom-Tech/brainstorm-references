@@ -95,9 +95,10 @@ In particular:
 # Getting started
 
 ## Best reading /watching for the big picture (not necessarily in order):
-- substack articles
-- Custom NIPs, especially Decentralized Lists
-- Say WoT, S1 E1
+- [Pretty Good substack articles](https://substack.com/@prettygoodproject),
+- Custom NIPs, especially [Decentralized Lists](https://nostrhub.io/naddr1qvzqqqrcvypzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qyg8wumn8ghj7mn0wd68ytnhd9hx2qqnv3jkxetww3exzmrf0fjkgttvd9ehguc0w45dy)
+- Say Wot, with Avi Burra, Vitor Pamplona, and Derek Ross, [S1 E1](https://podcasts.apple.com/py/podcast/say-wot-ep-1-user-driven-trust-scores-with-derek-ross/id1691033484?i=1000744974514)
+- [Weaving the Fabric of Nostr](https://bitcoinpark.com/nostr-nights/david-strayhorn-weaving-the-fabric-of-nostr.html) -- talk at Nostr Nights, 2 Feb 2026
 
 ## Most relevant repos for apps:
 
