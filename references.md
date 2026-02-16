@@ -106,7 +106,7 @@ Concept Graph (aka Knowledge Graph):
 - [brainstorm-knowledge-graph](https://github.com/wds4/brainstorm-knowledge-graph), implemented [here](https://brainstorm-knowledge-graph.vercel.app/#/dashboard) (actie development as of Feb 2026)
 Grapevine + Knowledge Graph
 - [Pretty Good](https://github.com/wds4/pretty-good) on nostr; as of Feb 2026 this is 2 years old
-- [Plex](https://github.com/wds4/plex) on IPFS, before I discovered nostr; in many ways this is the most complete implementation of the Concept Graph anywhere, more so than anything I've built on nostr
+- [Plex](https://github.com/wds4/plex) on IPFS, before I discovered nostr; in many ways this is the most complete implementation of the Concept Graph anywhere, more so than anything I've built on nostr (note: I have multiple versions of Plex in wds4, e.g. plex-builder14,  and I'm not 100 % sure which one is the most up to date)
 
 Important high level concepts
 - loose consensus
