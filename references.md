@@ -101,3 +101,8 @@ Best reading /watching for the big picture (not necessarily in order):
 
 Most relevant repos:
 - [the prototype for Brainstorm: Grapevine](https://github.com/Pretty-Good-Freedom-Tech/brainstorm), implemented at [straycat.brainstorm.social](https://straycat.brainstorm.social)
+
+Important high level concepts
+- loose consensus
+- class threads
+- why GOFAI failed and how tapestry will fix it
