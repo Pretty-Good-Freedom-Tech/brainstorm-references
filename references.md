@@ -55,10 +55,10 @@ In particular:
 - tribal tapestry theory, [here](https://github.com/wds4/tribal-tapestry)
 
 ## Podcast appearances:
-- Thank God For Nostr, with hodlbod
+- Thank God For Nostr, with hodlbod, [July 16, 2024](https://fountain.fm/episode/aD6Jp6wGxOOitdqeaBii)
 - Trust Revolution, with Shawn Yeager, [S01 E4](https://trustrevolution.co/episodes/s01e04-david-strayhorn/)
-- PlebChain Radio, with Avi Burra
-- Say Wot, with Avi Burra, Vitor Pamplona, and Derek Ross, [S1 E1](https://podcasts.apple.com/py/podcast/say-wot-ep-1-user-driven-trust-scores-with-derek-ross/id1691033484?i=1000744974514(
+- PlebChain Radio, with Avi Burra, [PCR133](https://podcasts.apple.com/us/podcast/pcr133-wots-the-deal-with-david-strayhorn/id1691033484?i=1000732430126)
+- Say Wot, with Avi Burra, Vitor Pamplona, and Derek Ross, [S1 E1](https://podcasts.apple.com/py/podcast/say-wot-ep-1-user-driven-trust-scores-with-derek-ross/id1691033484?i=1000744974514)
 
 ## Presentations at Bitcoin Park:
 - [Nostr, Lists and Web of Trust](https://open.spotify.com/episode/1SYE5ooZiHaswOsXR23STp), 15-minute presentation Nov 2023 at Nostrville in Bitcoin Park, Nashville, TN
