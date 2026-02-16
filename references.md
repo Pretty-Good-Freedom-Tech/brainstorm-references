@@ -98,3 +98,6 @@ Best reading /watching for the big picture (not necessarily in order):
 - substack articles
 - Custom NIPs, especially Decentralized Lists
 - Say WoT, S1 E1
+
+Most relevant repos:
+- [the prototype for Brainstorm: Grapevine](https://github.com/Pretty-Good-Freedom-Tech/brainstorm), implemented at [straycat.brainstorm.social](https://straycat.brainstorm.social)
