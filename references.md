@@ -102,10 +102,10 @@ In particular:
 ## Most relevant repos for apps:
 
 Grapevine:
-- [the prototype for Brainstorm: Grapevine](https://github.com/Pretty-Good-Freedom-Tech/brainstorm), implemented at [straycat.brainstorm.social](https://straycat.brainstorm.social)
+- [the prototype for Brainstorm: Grapevine](https://github.com/Pretty-Good-Freedom-Tech/brainstorm), implemented at [straycat.brainstorm.social](https://straycat.brainstorm.social), still live as of Feb 2026 but soon to be superceded by the NosFabrica rebuild
 
 Concept Graph (aka Knowledge Graph):
-- [brainstorm-knowledge-graph](https://github.com/wds4/brainstorm-knowledge-graph), implemented [here](https://brainstorm-knowledge-graph.vercel.app/#/dashboard) (actie development as of Feb 2026)
+- [brainstorm-knowledge-graph](https://github.com/wds4/brainstorm-knowledge-graph), implemented [here](https://brainstorm-knowledge-graph.vercel.app/#/dashboard) -- this implements Decentralied Lists, with plans to implement more of my custom NIPs; (began active development as of Feb 2026; what I'm building to serve Avi's TrustWave)
 
 Grapevine + Knowledge Graph
 - [Pretty Good](https://github.com/wds4/pretty-good) on nostr; as of Feb 2026 this is 2 years old
