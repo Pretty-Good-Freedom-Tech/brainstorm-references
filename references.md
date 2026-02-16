@@ -44,6 +44,7 @@ This document is a list of places to look for as many writings, repos, videos, e
 
 In particular:
 - grapevine-modular-structure, [here](https://github.com/Pretty-Good-Freedom-Tech/grapevine-modular-structure)
+- brainstorm prototype (Grapevine, not Concept Graph), [here](https://github.com/Pretty-Good-Freedom-Tech/brainstorm)
 
 ### GitHub: wds4, [here](https://github.com/Pretty-Good-Freedom-Tech/wds4)
 
