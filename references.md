@@ -16,22 +16,22 @@ This document is a list of places to look for as many writings, repos, videos, e
 
 ## nostr long form content by straycat (npub1u5njm6g5h5cpw4wy8xugu62e5s7f6fnysv0sj0z3a8rengt2zqhsxrldq3) here, including:
 
-- Web of Trust: Where is the Trust Signal?
-- Why GrapeRank Uses Mutes and Reports to Pick Off Bots, Impersonators and Bad Actors
-- Data Model for a Neo4j Nostr Relay
-- Standardization of Trust Metric Delivery Protocols
-- Key Rotation and Web of Trust: the Simplest Possible Solution to a Pressing Problem
-- Separation of Trust and Client
+- Web of Trust: Where is the Trust Signal?, [here](https://primal.net/straycat/web-of-trust-where-is-the-trust-signal)
+- Why GrapeRank Uses Mutes and Reports to Pick Off Bots, Impersonators and Bad Actors, [here](https://primal.net/straycat/why-graperank-uses-mutes-and-reports-to-pick-off-bots-impersonators-and-bad-actors)
+- Data Model for a Neo4j Nostr Relay, [here](https://primal.net/straycat/data-model-for-a-neo4j-nostr-relay)
+- Standardization of Trust Metric Delivery Protocols, [here](https://primal.net/straycat/standardization-of-trust-metric-delivery-protocols)
+- Key Rotation and Web of Trust: the Simplest Possible Solution to a Pressing Problem, [here](https://primal.net/straycat/key-rotation-and-web-of-trust-the-simplest-possible-solution-to-a-pressing-problem)
+- Separation of Trust and Client, [here](https://primal.net/straycat/separation-of-trust-and-client)
 - Decentralized Curation of Simple Lists, [here](https://primal.net/straycat/decentralized-curation-of-simple-lists)
-- Community Curation of Custom NIPs
-- Service Providers for Personalized Trust Metrics
-- GrapeRank
-- Integration of NIP-85: Trusted Assertions into Nostr Clients
-- Web of Trust, the Grapevine and the Art of Interpretation
-- The Grapevine Worldview: under the hood with your web of trust
-- The GrapeRank Equation: Notation and Terminology
-- To get Web of Trust right, we must Show AND Tell
-- Web of Trust: a roadmap for the short to medium term
+- Community Curation of Custom NIPs, [here](https://primal.net/straycat/community-curation-of-custom-nips)
+- Service Providers for Personalized Trust Metrics, [here](https://primal.net/straycat/service-providers-for-personalized-trust-metrics)
+- GrapeRank, [here](https://primal.net/straycat/graperank)
+- Integration of NIP-85: Trusted Assertions into Nostr Clients, [here](https://primal.net/straycat/integration-of-nip-85-trusted-assertions-into-nostr-clients)
+- Web of Trust, the Grapevine and the Art of Interpretation, [here](https://primal.net/e/naddr1qvzqqqr4gupzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qqxnzdejx5urzwp58qcrgdp4dutxqa)
+- The Grapevine Worldview: under the hood with your web of trust, [here](https://primal.net/e/naddr1qvzqqqr4gupzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qqxnzdejx5cngves8y6njvecy87amm)
+- The GrapeRank Equation: Notation and Terminology, [here](https://primal.net/e/naddr1qvzqqqr4gupzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qqxnzdejx5crqd35xcer2vfjzk7hzn)
+- To get Web of Trust right, we must Show AND Tell, [here](https://primal.net/e/naddr1qvzqqqr4gupzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qqxnzdejxsengd3jxvcnsdfjwdr03d)
+- Web of Trust: a roadmap for the short to medium term, [here](https://primal.net/e/naddr1qvzqqqr4gupzpef89h53f0fsza2ugwdc3e54nfpun5nxfqclpy79r6w8nxsk5yp0qqxnzdesxqerwvesxvmn2dpj5hl046)
 
 ## nostr long form content by Pretty Good Freedom Tech (npub120dtguu42s45m7wf6kejjdzq8d637z5g9e5mhrwc5esd7w547qks8sf6jp):
 
